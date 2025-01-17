@@ -7,6 +7,8 @@ import MarqueeDemo from "@/components/ui/marque";
 import { Camera, Heart, Mail, MapPin, Phone, Calendar, Clock, Video, Sparkles, Cake, Baby } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { FaWhatsapp } from "react-icons/fa";
+import { IoCallOutline } from "react-icons/io5";
 
 export default function Home() {
   return (
@@ -27,8 +29,8 @@ export default function Home() {
           <h1 className="text-5xl md:text-7xl font-bold my-4 sm:my-1">Chitra &nbsp; Bindu<br/> Photography</h1>
           <p className="text-xl md:text-2xl mb-4">Bengali Wedding Photography</p>
           <p className="text-sm md:text-xl w-60 md:w-full mb-8">Capturing Timeless Bengali Wedding Traditions</p>
-          <Link href={'tel:+917872744407'}  className="bg-red-600 text-white hover:bg-red-700 p-4 rounded-md">
-            Call Here: +91 7872744407
+          <Link href={'tel:+917872744407'}  className="bg-red-600 text-white hover:bg-red-700 p-4 rounded-md flex gap-3">
+            <IoCallOutline size={25} /> +91 7872744407
           </Link>
         </div>
         <div className="absolute bottom-0 w-[48%] left-0">
@@ -64,7 +66,14 @@ export default function Home() {
                 vibrant colors, emotions, and traditions that make our culture so rich and beautiful.
               </p>
               <Button variant="outline" className="gap-2">
-                <Heart className="w-4 h-4" /> Learn More
+                <Link 
+                      href="https://wa.me/917872744407?text=Hello%2C%20I'd%20like%20to%20chat%20with%20you!"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex gap-2"
+                >
+                  <FaWhatsapp className="w-4 h-4" /> <span className="text-md">Connect on Whatsapp</span>
+                </Link>
               </Button>
             </div>
           </div>
