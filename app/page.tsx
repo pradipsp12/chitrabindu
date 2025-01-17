@@ -28,7 +28,7 @@ export default function Home() {
           <p className="text-xl md:text-2xl mb-4">Bengali Wedding Photography</p>
           <p className="text-sm md:text-xl w-60 md:w-full mb-8">Capturing Timeless Bengali Wedding Traditions</p>
           <Link href={'tel:+917872744407'}  className="bg-red-600 text-white hover:bg-red-700 p-4 rounded-md">
-            Call Now: +91 7872744407
+            Call Here: +91 7872744407
           </Link>
         </div>
         <div className="absolute bottom-0 w-[48%] left-0">
