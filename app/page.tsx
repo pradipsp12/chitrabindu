@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <main className="min-h-screen">
       {/* Hero Section */}
-      <section className="relative h-screen">
+      <section className="relative h-[80vh] sm:h-screen">
         <Image
           src="banner.jpg"
           alt="Bengali Wedding"
@@ -23,8 +23,8 @@ export default function Home() {
           priority
         />
         <div className="absolute inset-0 bg-black/40" />
-        <Image src={'/logo.jpg'} className="rounded-sm shadow-sm absolute left-12 top-8 shadow-white" width={150} height={40} alt="logo"/>
-        <div className="absolute md:inset-0 top-40  flex flex-col items-start pl-12 justify-center text-white">
+        <Image src={'/logo.jpg'} className="rounded-sm shadow-sm absolute left-4 sm:left-12 top-8 shadow-white" width={150} height={40} alt="logo"/>
+        <div className="absolute md:inset-0 top-40  flex flex-col items-start pl-4 sm:pl-12 justify-center text-white">
           
           <h1 className="text-5xl md:text-7xl font-bold my-4 sm:my-1">Chitra &nbsp; Bindu<br/> Photography</h1>
           <p className="text-xl md:text-2xl mb-4">Bengali Wedding Photography</p>
