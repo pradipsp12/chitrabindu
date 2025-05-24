@@ -1,0 +1,97 @@
+export const galleryImages = [
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/491844704_122136682820403744_1519815130855103527_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Wslf95X0BhwQ7kNvwHsb3s0&_nc_oc=AdlNk0TNmuTMK-d_VYb9lWsRAEqt08y9Dyw_2n-5BmMQJfig_rHKNW1Pb6zkKpPEaLs&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=IAe3UvDms4MfTa2Q1dZzyg&oh=00_AfKgEav3I_-vSZx1erBMYAcyAR18mgA6j6UpugmfX-jwCw&oe=6837AE83",
+      alt: "Bride Portrait",
+      orientation: "portrait",
+      category: "portraits",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/492456105_122136684518403744_1528657990229690139_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=N0LPmpvk12kQ7kNvwFNAnvP&_nc_oc=Adlglsdb0-dI9LxZrUoDP4DnloIq9mWoOOm4M35H_KCGd2zsnajz6hHR6QBf-aTktbc&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=XAsrl7RPuFZUBNIu2auDnw&oh=00_AfICU7JRnLzThmCnOhSFGjk8CGg1cUz6szQGCiQn2av-2g&oe=68377CC1",
+      alt: "Wedding Ceremony",
+      orientation: "landscape",
+      category: "ceremony",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/471139610_122124441740403744_5702932342481492453_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GtsgC4K-HK4Q7kNvwHiuVjZ&_nc_oc=AdnTsFL1kOOeTIeySRFFnDf49qoZFCUX0LYpETKHtp-w1DNXc1MepH054VOLZJmTwpo&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=0H8zgJIimUNl4rMeNjtMBg&oh=00_AfIyEoNJF76MEV82aiip92zk4BYBL_T6Xzfij_Ua6-_4WQ&oe=68377BDF",
+      alt: "Wedding Rings",
+      orientation: "square",
+      category: "details",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/495187448_122137840676403744_4041792512689250931_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sz6VnVlEi90Q7kNvwHKGzxU&_nc_oc=AdlYgUeyg0EB4wXru_6gc0QtkepfN2ObRhpgdP-K_3M5DM3W6LGwupBI7ASkEXNqg9k&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=lwtnrhkwuSv0WMq2hk63JQ&oh=00_AfJV8Wuq7j6EF_tigF2NlwbwSOH6QW0M2aOtRo96ma8OLA&oe=6837A421",
+      alt: "Couple Dancing",
+      orientation: "landscape",
+      category: "reception",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/495291572_122137840958403744_3796761295093940728_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gtCcQof1BmoQ7kNvwE88TRj&_nc_oc=Adk_keeqkaY5qUdI42pKXZpDy4zsEslQkAj0pfVs0s3dUGLkGz5LAwPN_zcfo1hNLdE&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=jNCFAdKaXcxUbRfe3WQJPg&oh=00_AfLyO9GZ_foas4RknUHfPvecDKbBOIPprV9IRPBSBCBLBg&oe=683789AA",
+      alt: "Wedding Reception",
+      orientation: "landscape",
+      category: "reception",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/494371789_122137840748403744_2069922897186240015_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Jc_5-EZaXokQ7kNvwGe52MP&_nc_oc=Adm8BFE80d-Ny6tTqIA3EYX4diqbUVVollHhgZbt6397Mn4XOTAEz647zAwx2W1S-RE&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=x5U6FgDgveB4UdBjVVslBA&oh=00_AfJduWn3pN7IuTghu2PE7w9vIrJ7sdRXHxzuuz-jkfY8iQ&oe=6837A3EF",
+      alt: "Bouquet Details",
+      orientation: "portrait",
+      category: "details",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/471200562_122124441788403744_7650228263084839752_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9ucQmWz0T4wQ7kNvwHEk0Ui&_nc_oc=AdlEuz3lmZ4ht25-hmPJai2c0YEE53LiczYId_2TGrTl5h2chntvbX2Vs9fa1RIqYgU&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=0aRzhgIcx_gKVzG92WPLQw&oh=00_AfKv4xU_N-brdxzyTUzkYOKQ6SB3yL5rTZH6-EparmigtQ&oe=683786A4",
+      alt: "Groom Portrait",
+      orientation: "portrait",
+      category: "portraits",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/471181988_122124441074403744_6020502169781882603_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2AWQU6PqiBoQ7kNvwHYgCpA&_nc_oc=AdmMfv2xNLCO4_R2Mcs8sRb2MhOc02lJUnUrGn-6IXcCjmEG8vudtAHc6zPMo8GOLYw&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=ND561-Lky--O8_LtML7aPQ&oh=00_AfLdrTMk6MZ6Tk5f8J-gSEbNkjjxYd6YCuP6dfON2UPvbQ&oe=6837AB39",
+      alt: "Wedding Venue",
+      orientation: "portrait",
+      category: "venue",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/470197665_122123855852403744_8522744877563059157_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hodt8hgH9H8Q7kNvwEBsHCm&_nc_oc=Adl7v5mRR-eWFKY4KwBtQ9MSrOpIw-A9z6NPlYwvMw2pqnswn-IwFEsuSIN1bo7ZuM0&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=5Q4v7zNtsqBztw4CNNScZQ&oh=00_AfLsx39FZa1ZE5qAskr1ROnhxPYpe79bMCU63x_V9LWYrA&oe=68378992",
+      alt: "First Kiss",
+      orientation: "square",
+      category: "ceremony",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/470188802_122123598320403744_430985774117069917_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hXfYgVbfvzIQ7kNvwFTkq5P&_nc_oc=AdkRnheurgIC33WMYTz9VMeYbCqrMXzUQ7gka9N1D3k_Fz9QZpWgbwCflcCiHYRZZiM&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=ggyEnuip-yAiIadyomgSiw&oh=00_AfKGV14UBvH4HOBSziSzKOVMTG_mOGX7hkbpUSvsfFz04Q&oe=68379056",
+      alt: "Pre Wedding",
+      orientation: "landscape",
+      category: "Pre wedding",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/470204846_122123768564403744_1529119982678297827_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YezlR8PPUxQQ7kNvwH0eC_2&_nc_oc=AdnoewQww5jC4uA4QQafhPq9wotxohYJMtAA9cFkof8Q5Lefj6xbG_vVWqp39-js_4s&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=wUZ3zD1CPBqETA_zEMddVQ&oh=00_AfJD9tHT5AMXUyN8f_q6p8BkON7CdUiavGvEoFkothxlrA&oe=6837B16A",
+      alt: "Family Photo",
+      orientation: "landscape",
+      category: "family",
+      type: "image",
+    },
+    {
+      src: "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/470671525_122124441800403744_1785425668419957562_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xFCprZvXLNoQ7kNvwGYVVvo&_nc_oc=AdniR0V3RI3FT-r0IbLGTyZ6oumZoJjIJvV5EAa9e1r2NXxNteU_bw4S_AEAMDS0bq8&_nc_zt=23&_nc_ht=scontent.fccu3-1.fna&_nc_gid=HW8MVnUtscRC5LuGXXPDCQ&oh=00_AfLLNMRS7gCTZhLE6hhZRv-fTH7QG7j_pPXVGApEltGOPg&oe=683793D9",
+      alt: "Bride and Groom",
+      orientation: "portrait",
+      category: "single",
+      type: "image",
+    },
+  ]
+export const galleryVideos = [
+    {
+      src: "/placeholder.svg?height=400&width=600",
+      videoSrc: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      alt: "Wedding Ceremony Highlights",
+      category: "ceremony",
+      type: "video",
+      thumbnail: "/placeholder.svg?height=400&width=600",
+    },
+    
+  ]
